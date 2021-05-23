@@ -1,0 +1,4 @@
+name: BetterSleep
+main: com.tyzoid.plugins.bettersleep.BetterSleep
+version: 0.0.2
+author: Tyzoid
